@@ -1,4 +1,4 @@
 Just added text file 2.
 Added text after cloning.
-Adding this line in file2 - Ammad
-Ammad Here
+Adding this line in file2 
+Ammad and Shafay here
