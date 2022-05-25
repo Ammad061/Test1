@@ -1,3 +1,4 @@
 Just added text file 2.
 Added text after cloning.
 Adding this line in file2 - Ammad
+Ammad Here
